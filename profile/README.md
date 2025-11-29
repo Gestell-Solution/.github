@@ -112,7 +112,7 @@ Gestell is led by an experienced **Embedded Systems Engineer** with strong exper
 * **Deliverables:** Documentation + demo video.
 * **DemoLink**:
 
-### 2. Portable Industrial Controller (STM32)
+### 2. Portable Industrial Controller (Smart Devices)
 * **Stack:** STM32, FreeRTOS, Modbus RTU, Qt.
 * **Features:** Logic engine, IO mapping, Configuration storage.
 * **Type:** Industrial-grade architecture.
