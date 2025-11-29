@@ -76,20 +76,6 @@ Our engineering workflow ensures predictable, high-quality delivery:
 
 ---
 
-## 🏆 Project Highlights
-
-### 1. Smart Room Monitor System (IoT)
-* **Stack:** ESP32, FreeRTOS, MQTT, Flutter.
-* **Features:** Real-time data visualization.
-* **Deliverables:** Documentation + demo video.
-
-### 2. Portable Industrial Controller (STM32)
-* **Stack:** STM32, FreeRTOS, Modbus RTU, Qt.
-* **Features:** Logic engine, IO mapping, Configuration storage.
-* **Type:** Industrial-grade architecture.
-
----
-
 ## 💎 Why Choose Gestell?
 
 ✅ **7+ Years** of real engineering experience.  
@@ -116,6 +102,21 @@ Our engineering workflow ensures predictable, high-quality delivery:
 
 Gestell is led by an experienced **Embedded Systems Engineer** with strong expertise in real-time systems, IoT architecture, and industrial protocols. We collaborate with a network of trusted engineers (Mobile, QA, Automation) to deliver complete solutions.
 
+---
+
+## 🏆 Projects
+
+### 1. Smart Room Monitor System (IoT)
+* **Stack:** ESP32, FreeRTOS, MQTT, Flutter.
+* **Features:** Real-time data visualization.
+* **Deliverables:** Documentation + demo video.
+* **DemoLink**:
+
+### 2. Portable Industrial Controller (STM32)
+* **Stack:** STM32, FreeRTOS, Modbus RTU, Qt.
+* **Features:** Logic engine, IO mapping, Configuration storage.
+* **Type:** Industrial-grade architecture.
+* **DemoLink**:
 ---
 
 <div align="center">
