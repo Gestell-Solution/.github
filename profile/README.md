@@ -98,12 +98,6 @@ Our engineering workflow ensures predictable, high-quality delivery:
 
 ---
 
-## 👥 The Team
-
-Gestell is led by an experienced **Embedded Systems Engineer** with strong expertise in real-time systems, IoT architecture, and industrial protocols. We collaborate with a network of trusted engineers (Mobile, QA, Automation) to deliver complete solutions.
-
----
-
 ## 🏆 Projects
 
 ### 1. Smart Room Monitor System (IoT)
@@ -117,8 +111,13 @@ Gestell is led by an experienced **Embedded Systems Engineer** with strong exper
 * **Features:** Logic engine, IO mapping, Configuration storage.
 * **Type:** Industrial-grade architecture.
 * **DemoLink**:
----
 
+---
+## 👥 The Team
+
+Gestell is led by an experienced **Embedded Systems Engineer** with strong expertise in real-time systems, IoT architecture, and industrial protocols. We collaborate with a network of trusted engineers (Mobile, QA, Automation) to deliver complete solutions.
+
+---
 <div align="center">
 
 ### 📬 Contact Us
