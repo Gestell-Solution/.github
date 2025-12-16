@@ -1,130 +1,138 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gestell-Solution/.github/main/gestell-logo.png" width="200" alt="Gestell Logo">
-  
+
   # GESTELL
   ### Embedded Systems & IoT Engineering
-  
-  **Delivering Reliable Firmware, IoT Solutions, and Industrial Automation Systems.**
-  
+
+  **Delivering reliable firmware, IoT platforms, and industrial automation systems.**
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gestell_Company-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/gestell-company)
   [![Email](https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hisham.ah.hamed@gmail.com)
-  
-  ---
 </div>
+
+---
 
 ## 🚀 About Gestell
 
-**Who We Are** Gestell is a specialized engineering company focused on delivering high-quality embedded systems, IoT solutions, industrial controllers, and firmware development services. With **7+ years of hands-on industry experience**, we design efficient, reliable, and scalable systems customized for real-world applications.
+Gestell is an **engineering-first company** delivering **production-grade embedded systems**, **scalable IoT solutions**, and **industrial controllers** for real-world applications.
 
-**Our Approach** We combine engineering excellence with clean architecture, robust testing, and modern development workflows to deliver end-to-end embedded solutions for global clients.
+With **7+ years of hands-on industry experience**, we design systems that prioritize **reliability, clarity, and long-term maintainability**—from firmware and RTOS layers to device connectivity and engineering tools.
+
+**How we work**
+- Architecture before implementation  
+- Small, testable, and extensible components  
+- Clean interfaces, strong documentation, and predictable delivery  
 
 ---
 
 ## 🎯 Vision & Mission
 
-| **Our Vision** | **Our Mission** |
+| **Vision** | **Mission** |
 | :--- | :--- |
-| To become a leading provider of embedded engineering solutions that simplify technology and enable smarter industries. | • Deliver optimized and reliable firmware.<br>• Build scalable IoT and industrial systems.<br>• Accelerate clients' product development.<br>• Provide long-term engineering partnership. |
+| Enable smarter industries through clear, reliable embedded engineering. | • Deliver optimized, production-ready firmware<br>• Build scalable IoT & industrial systems<br>• Accelerate clients’ product development<br>• Establish long-term engineering partnerships |
 
 ---
 
-## 🛠 What We Do (Services)
+## 🛠️ Services
 
 ### 🔹 Embedded Firmware Development
-* **Chips:** STM32, ESP32, AVR, ESP8266.
-* **Core:** Bare-metal & RTOS, HAL/LL drivers.
-* **Comms:** UART, SPI, I2C, CAN, RS485.
+- **MCUs:** STM32, ESP32, ESP8266, AVR, NXP  
+- **Execution:** Bare-metal, RTOS (FreeRTOS)  
+- **Drivers:** HAL/LL, peripheral & board support  
+- **Comms:** UART, SPI, I2C, CAN, RS485  
 
 ### 🔹 IoT System Development
-* **Protocols:** MQTT, HTTP, WebSocket.
-* **Cloud:** HiveMQ, AWS IoT, Custom Brokers.
-* **Mobile:** App integration (Flutter).
+- **Protocols:** MQTT, HTTP, WebSocket  
+- **Cloud:** HiveMQ, AWS IoT, custom brokers  
+- **Integration:** Mobile apps & dashboards (Flutter)  
 
 ### 🔹 Industrial Automation
-* **Standards:** Modbus RTU / TCP.
-* **Systems:** Industrial controller design & RTOS-based control.
-* **Reliability:** Safety considerations & robust architecture.
+- **Standards:** Modbus RTU / TCP  
+- **Systems:** Industrial controllers & RTOS-based control  
+- **Focus:** Reliability, safety considerations, deterministic behavior  
 
-### 🔹 Cross-Platform Applications
-* Desktop tools (Qt), Mobile apps (Flutter), and Configurator tools.
+### 🔹 Cross-Platform Engineering Tools
+- **Desktop:** Qt-based configuration & debugging tools  
+- **Mobile:** Flutter applications  
+- **Use cases:** Device setup, monitoring, diagnostics  
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 Technologies & Tooling
 
 | Category | Stack |
 | :--- | :--- |
 | **Microcontrollers** | STM32, ESP32, ESP8266, AVR, NXP |
-| **OS** | Bare-metal, FreeRTOS, Embedded Linux |
-| **Protocols** | MQTT, Modbus, CAN, RS485, BLE, WiFi |
-| **Tools & IDEs** | CubeMX, PlatformIO, Keil, VS Code |
+| **Operating Systems** | Bare-metal, FreeRTOS, Embedded Linux |
+| **Protocols** | MQTT, Modbus, CAN, RS485, BLE, Wi-Fi |
+| **Tooling** | CubeMX, PlatformIO, Keil, VS Code |
 | **Frameworks** | Yocto, Qt, Flutter |
 | **DevOps** | Git, GitHub, CMake, Docker |
 
 ---
 
-## 🔄 Development Workflow
+## 🔄 Engineering Workflow
 
-Our engineering workflow ensures predictable, high-quality delivery:
+Our workflow is optimized for **predictable delivery** and **production readiness**:
 
-1.  **Requirement Analysis** 📝 (Understanding functional & technical needs)
-2.  **System Architecture** 🏗️ (Hardware / Firmware / Cloud architecture)
-3.  **Development** 💻 (Modular and documented C/C++ firmware)
-4.  **Testing** 🧪 (Unit tests — integration tests — stress tests)
-5.  **Delivery** 📦 (Firmware + Source Code + Documentation)
-6.  **Support** 🤝 (Optional support or long-term maintenance)
-
----
-
-## 💎 Why Choose Gestell?
-
-✅ **7+ Years** of real engineering experience.  
-✅ **High-quality** firmware architecture & clean code.  
-✅ **End-to-end** solution delivery (Firmware + App).  
-✅ **Expertise** in RTOS & Industrial Protocols.  
-✅ **Professional** communication & fast response.
+1. **Requirement Analysis** — Functional & technical alignment  
+2. **System Architecture** — HW/FW/Connectivity design  
+3. **Implementation** — Modular, documented C/C++ firmware  
+4. **Testing** — Unit, integration, and stress testing  
+5. **Delivery** — Source code, firmware, and documentation  
+6. **Support** — Optional maintenance & long-term collaboration  
 
 ---
 
-## 💰 Pricing Models
+## 💎 Why Choose Gestell
 
-| Model | Ideal For | Range |
+- ✅ **7+ years** of real-world embedded engineering  
+- ✅ **Architecture-driven** development (not quick hacks)  
+- ✅ **End-to-end delivery**: firmware, tools, and integration  
+- ✅ **RTOS & industrial protocol expertise**  
+- ✅ **Clear communication** and fast turnaround  
+
+---
+
+## 💰 Engagement Models
+
+| Model | Best For | Typical Range |
 | :--- | :--- | :--- |
-| **Fixed-Price** | Complete modules, firmware, small tools | **$200 – $2,000** |
-| **Monthly Retainer** | Long-term support, continuous dev | **$500 – $1,500 / mo** |
-| **Hourly Model** | Flexible tasks, Upwork, Remote | **$15 – $30 / hr** |
+| **Fixed Price** | Defined modules, firmware, tools | **$200 – $2,000** |
+| **Monthly Retainer** | Ongoing development & support | **$500 – $1,500 / mo** |
+| **Hourly** | Flexible tasks & consulting | **$15 – $30 / hr** |
 
-*(Prices adjust based on project scope and technology)*
+*Pricing varies based on scope, complexity, and technology stack.*
+
+---
+
+## 🏆 Selected Projects
+
+### 1️⃣ Smart Room Monitor (IoT)
+- **Stack:** ESP32, FreeRTOS, MQTT, Flutter  
+- **Highlights:** Real-time telemetry & visualization  
+- **Deliverables:** Firmware, app, documentation  
+
+### 2️⃣ Portable Industrial Controller
+- **Stack:** STM32, FreeRTOS, Modbus RTU, Qt  
+- **Highlights:** IO mapping, logic engine, persistent config  
+- **Focus:** Industrial-grade architecture  
 
 ---
 
-## 🏆 Projects
+## 👥 Team
 
-### 1. Smart Room Monitor System (IoT)
-* **Stack:** ESP32, FreeRTOS, MQTT, Flutter.
-* **Features:** Real-time data visualization.
-* **Deliverables:** Documentation + demo video.
-* **DemoLink**:
-
-### 2. Portable Industrial Controller (Smart Devices)
-* **Stack:** STM32, FreeRTOS, Modbus RTU, Qt.
-* **Features:** Logic engine, IO mapping, Configuration storage.
-* **Type:** Industrial-grade architecture.
-* **DemoLink**:
+Gestell is led by an experienced **Embedded Systems Team Lead**, collaborating with a trusted network of engineers across **firmware, mobile, QA, and automation** to deliver complete, production-ready solutions.
 
 ---
-## 👥 The Team
 
-Gestell is led by an experienced **Embedded Systems Engineer** with strong expertise in real-time systems, IoT architecture, and industrial protocols. We collaborate with a network of trusted engineers (Mobile, QA, Automation) to deliver complete solutions.
-
----
 <div align="center">
 
 ### 📬 Contact Us
-**Let's build something great together.**
+**Let’s build reliable systems together.**
 
 📧 **Email:** [hisham.ah.hamed@gmail.com](mailto:hisham.ah.hamed@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/company/gestell-company](https://www.linkedin.com/company/gestell-company)  
-💻 **GitHub:** [github.com/Gestell-Solution](https://github.com/Gestell-Solution)
+🔗 **LinkedIn:** https://www.linkedin.com/company/gestell-company  
+💻 **GitHub:** https://github.com/Gestell-Solution
 
 </div>
